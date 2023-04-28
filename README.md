@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimHaeryong&exclude_repo=LimHaeryong.github.io&layout=compact&theme=gruvbox" width="24.2%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimHaeryong&exclude_repo=LimHaeryong.github.io&layout=compact&theme=gruvbox" width="32%"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=LimHaeryong&theme=gruvbox&show_icons=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LimHaeryong&theme=gruvbox&show_icons=true" width="42%" />
 </a>
