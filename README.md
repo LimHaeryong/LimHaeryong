@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&animation=fadeIn&section=footer&text=Hi%20I'm%20Haeryong&fontAlign=50)
 
 <!--
 **LimHaeryong/LimHaeryong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimHaeryong&exclude_repo=LimHaeryong.github.io&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimHaeryong&exclude_repo=LimHaeryong.github.io&layout=compact&theme=gruvbox" width="24.2%"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=LimHaeryong&theme=gruvbox&show_icons=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LimHaeryong&theme=gruvbox&show_icons=true" width="32%" />
 </a>
